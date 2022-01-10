@@ -130,7 +130,7 @@ function App() {
                   {/* <h3 className="subtitle"> {supply} / {supplyMax}</h3> */}
                 </div>
                 <div className="text-center mt-4">
-                  <h3 className="subtitle">{price} Tokens Per AVAX</h3>
+                  <h3 className="subtitle">{price} AVAX = 1 $SHIELD</h3>
                 </div>
                 <div className="text-center mt-5">
                   <img
