@@ -15,7 +15,7 @@ function App() {
   const { buy } = useBuy();
 
 
-  const price = 10;
+  const price = 1;
   const { login, logout } = useAuth();
   const { account } = useWeb3React();
 
